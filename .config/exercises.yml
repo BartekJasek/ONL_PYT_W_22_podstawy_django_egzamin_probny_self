@@ -1,0 +1,6 @@
+exercises:
+    '1_Zadanie 1 - menu': { max_points: 4, disabled: true, translations: { en: '1_Task 1 - menu', pl: '1_Zadanie 1 - menu' } }
+    '2_Zadanie 2 - modele': { max_points: 4, disabled: true, translations: { en: '2_Task 2 - models', pl: '2_Zadanie 2 - modele' } }
+    '3_Zadanie 3 - szczegóły wykładu': { max_points: 3, disabled: true, translations: { en: '3_Task 3 - lecture details', pl: '3_Zadanie 3 - szczegóły wykładu' } }
+    '4_Zadanie 4 - widoki': { max_points: 6, disabled: true, translations: { en: '4_Task 4 - views', pl: '4_Zadanie 4 - widoki' } }
+    '5_Zadanie 5 - formularz': { max_points: 5, disabled: true, translations: { en: '5_Task 5 - form', pl: '5_Zadanie 5 - formularz' } }
